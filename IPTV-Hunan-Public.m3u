@@ -1,0 +1,27 @@
+#EXTM3U name="hunan-tv" x-tvg-url="http://e.erw.cc/e.xml.gz"
+#EXTINF:-1 channel-number="601" tvg-id="601" tvg-name="湖南都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan2.png" group-title="湖南" zz-definition="HD",湖南都市
+http://116.128.243.121:9905/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSMPP360.m3u8
+#EXTINF:-1 channel-number="602" tvg-id="602" tvg-name="湖南经视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan1.png" group-title="湖南" zz-definition="HD",湖南经视
+#http://116.128.243.121:9905/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNJSMPP360.m3u8
+#EXTINF:-1 channel-number="603" tvg-id="603" tvg-name="湖南电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan7.png" group-title="湖南" zz-definition="HD",湖南电视剧
+http://116.128.243.121:9905/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDSJMPP360.m3u8
+#EXTINF:-1 channel-number="604" tvg-id="604" tvg-name="湖南电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan6.png" group-title="湖南" zz-definition="HD",湖南电影
+http://116.128.243.121:9905/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNDYMPP360.m3u8
+#EXTINF:-1 channel-number="605" tvg-id="605" tvg-name="湖南爱晚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan3.png" group-title="湖南" zz-definition="HD",湖南爱晚
+http://116.128.243.121:9905/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNGGMPP360.m3u8
+#EXTINF:-1 channel-number="607" tvg-id="607" tvg-name="湖南娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan5.png" group-title="湖南" zz-definition="HD",湖南娱乐
+http://116.128.243.121:9905/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNYLMPP360.m3u8
+##EXTINF:-1 channel-number="608" tvg-id="608" tvg-name="湖南国际" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan4.png" group-title="湖南" zz-definition="HD",湖南国际
+# http://113.241.133.223:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 channel-number="609" tvg-id="609" tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan9.png" group-title="湖南" zz-definition="HD",金鹰纪实
+http://116.128.243.121:9905/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 channel-number="610" tvg-id="610" tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan10.png" group-title="湖南" zz-definition="HD",金鹰卡通
+http://116.128.243.121:9905/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#https://phoneal.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNGJMPP360.m3u8
+

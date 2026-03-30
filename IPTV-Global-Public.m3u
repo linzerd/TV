@@ -1,0 +1,29 @@
+#EXTM3U name="public-global-tv" x-tvg-url="https://epg.pw/xmltv/epg_HK.xml.gz"
+#EXTINF:-1 channel-number="901" tvg-id="901" tvg-name="CNA News Singapore" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/trial/m3u/main/logo/CNA.jpg" group-title="Global" zz-definition="HD",CNA News Singapore
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 channel-number="902" tvg-id="902" tvg-name="CNA" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/trial/m3u/main/logo/CNA.jpg" group-title="Global" zz-definition="HD",CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 channel-number="903" tvg-id="903" tvg-name="CNA International" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/trial/m3u/main/logo/CNA.jpg" group-title="Global" zz-definition="HD",CNA International
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 channel-number="904" tvg-id="904" tvg-name="GB News" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/trial/m3u/main/logo/GB.jpg" group-title="Global" zz-definition="HD",GB News
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 channel-number="905" tvg-id="905" tvg-name="RT News" tvg-logo="https://live.fanmingming.cn/tv/RTNews.png" group-title="Global" zz-definition="HD",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 channel-number="906" tvg-id="906" tvg-name="RT Doc" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/RTDoc.png" group-title="Global" zz-definition="HD",RT Documents
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 channel-number="907" tvg-id="907" tvg-name="ABC News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/suxuang/tv-logos/main/countries/united-states/abc-news-live-hz-us.png" group-title="Global" zz-definition="HD",ABC News
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+#EXTINF:-1 channel-number="907" tvg-id="907" tvg-name="Newxmax" group-title="Global",Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 channel-number="810" tvg-id="810" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png" group-title="HK" zz-definition="HD",凤凰中文
+http://221.229.212.86:14898
+#EXTINF:-1 channel-number="811" tvg-id="811" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png" group-title="HK" zz-definition="HD",凤凰资讯
+http://221.229.212.86:14896
+#EXTINF:-1 channel-number="812" tvg-id="812" tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png" group-title="HK" zz-definition="HD",凤凰香港
+http://221.229.212.86:14897
+#EXTINF:-1 channel-number="821" tvg-id="821" tvg-name="明珠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB2.png" group-title="HK" zz-definition="HD",明珠台
+https://o11.163189.xyz/stream/tvb/mzt/
+#EXTINF:-1 channel-number="822" tvg-id="822" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="HK" zz-definition="HD",翡翠台
+http://r.jdshipin.com/qrfbg
+#EXTINF:-1 channel-number="823" tvg-id="823" tvg-name="TVB无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻台.png" group-title="HK" zz-definition="HD",TVB无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
